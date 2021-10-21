@@ -18,7 +18,7 @@ Connection :
 Run:
 
 ```
-idf.py set-target esps2
+idf.py set-target esp32s2
 idf.py build flash monitor
 ```
 
