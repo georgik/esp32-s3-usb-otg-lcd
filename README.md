@@ -31,7 +31,7 @@ See the [Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/l
 
 The board does not have support for reading values from SPI, so it's not possible to detect display ID from SPI.
 
-On ESP-WROVER-KIT there will be:
+The terminal should display following output:
 
 ```
 kconfig: force CONFIG_LCD_TYPE_ST7789V.
